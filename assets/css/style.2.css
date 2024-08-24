@@ -1,0 +1,474 @@
+section.homepage-two-slider.h-100 {
+     height: 100vh !important;
+}
+ .homepagetwo-single-slider {
+     height: 100vh !important;
+     display: -webkit-box !important;
+     display: -ms-flexbox !important;
+     display: flex !important;
+     -webkit-box-align: center;
+     -ms-flex-align: center;
+     align-items: center;
+     background-size: cover;
+     background-position: center;
+}
+ .hometwo-slider-inner-content h3 {
+     color: #fff;
+     font-size: 20px;
+     font-style: italic;
+     font-weight: bold;
+     text-transform: uppercase;
+}
+ .hometwo-slider-inner-content h1 {
+     color: #fff;
+     font-size: 70px;
+     line-height: 1.1;
+     font-style: italic;
+     font-weight: bold;
+     text-shadow: -24px 5px 10px #4c4e66;
+}
+ .site-btn-hometwo {
+     margin-top: 35px;
+}
+ .site-btn-hometwo a {
+     line-height: 60px;
+     padding: 0px 45px;
+     border: none;
+     background: #f92524;
+     border-radius: 0;
+     font-size: 14px;
+     display: inline-block;
+     font-weight: 500;
+     margin: 0px 20px;
+}
+ .site-btn-hometwo a.btn-white.btn.filled-btn.text-uppercase {
+     background: #fff;
+     color: #f92524;
+}
+ .site-btn-hometwo a:hover {
+     background: #fff;
+     color: #f92524;
+}
+ header.header_area.home_page_two_menu {
+     background: transparent;
+}
+ header.header_area.home_page_two_menu ul li a {
+     color: #9a9a9a;
+     line-height: 60px;
+}
+ header.header_area.home_page_two_menu ul ul li a {
+     line-height: inherit;
+}
+ header.header_area.home_page_two_menu ul li.nav-item.buy-btn a {
+     line-height: 60px;
+     padding: 0 30px;
+     font-size: 14px;
+     font-weight: 500;
+     background: #f92524;
+     display: inline-block;
+     border-radius: 0;
+     color: #fff;
+}
+ header.header_area.home_page_two_menu.sticky {
+     background: #fff;
+}
+ section.homepage-two-slider.owl-carousel .owl-controls .owl-dots div:nth-child(1) span:before {
+     content: "01";
+}
+ section.homepage-two-slider.owl-carousel .owl-controls .owl-dots div:nth-child(2) span:before {
+     content: "02";
+}
+ section.homepage-two-slider.owl-carousel .owl-controls .owl-dots div:nth-child(3) span:before {
+     content: "03";
+}
+ section.homepage-two-slider.owl-carousel .owl-controls .owl-dots div:nth-child(4) span:before {
+     content: "04";
+}
+/* about area css */
+ section.about-us-home-two {
+     background-size: cover;
+     background-position: center;
+     background-color: #ddd;
+     background-repeat: no-repeat;
+}
+ .single-counter {
+     background: #fff;
+     text-align: center;
+     z-index: 1;
+     overflow: hidden;
+}
+ .single-counter h3 {
+     font-size: 20px;
+     font-weight: 500;
+     color: #f92524;
+}
+ .single-counter p {
+     margin: 0;
+}
+ .single-counter:before {
+     position: absolute;
+     z-index: 1;
+     width: 0;
+     height: 0;
+     border-top: 20px solid red;
+     border-left: 20px solid transparent;
+     content: "";
+     right: 0;
+     top: 0;
+}
+ .home-two-about-thumbnail {
+     position: absolute;
+     right: 0;
+     bottom: 0;
+     width: auto;
+     width: 50%;
+}
+ section.homepage-two-slider.owl-carousel .owl-controls .owl-dots div {
+     width: 40px;
+     height: 40px;
+     border-radius: 50%;
+     font-size: 14px;
+     color: #ffffff;
+     font-weight: 500;
+     line-height: 40px;
+     -webkit-transition: .3s;
+     transition: .3s;
+     background: transparent;
+}
+ section.homepage-two-slider.owl-carousel .owl-controls .owl-dots {
+     position: absolute;
+     bottom: 10%;
+     right: 10%;
+}
+ section.homepage-two-slider.owl-carousel .owl-controls .owl-dots div:hover {
+     background: #f92524;
+}
+ section.homepage-two-slider.owl-carousel .owl-controls .owl-dots div.active {
+     background: #f92524;
+}
+/* our class how two */
+ section.our-class-schedule.home-two-our-class {
+     background-color: #ddd;
+     background-size: cover;
+     background-position: center;
+     z-index: 1;
+     position: relative;
+}
+ section.our-class-schedule.home-two-our-class:after {
+     position: absolute;
+     top: 0;
+     left: 0;
+     height: 100%;
+     width: 100%;
+     content: "";
+     background-color: rgb(23, 27, 60);
+     opacity: 0.902;
+     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+     z-index: -1;
+}
+ section.our-class-schedule.home-two-our-class .section-title h1 {
+     color: #fff;
+}
+ section.our-class-schedule.home-two-our-class .our-class-schedule-tab-area ul.nav.nav-tabs li a {
+     color: #b4b4c2;
+     font-weight: 500;
+}
+ section.our-class-schedule.home-two-our-class .our-class-schedule-tab-area ul.nav.nav-tabs li a.active {
+     color: #f92524;
+}
+ section.our-class-schedule.home-two-our-class .our-class-schedule-table table.table thead th {
+     background-color: #383650;
+     color: #f92524;
+     padding-top: 28px;
+     padding-bottom: 28px;
+}
+ section.our-class-schedule.home-two-our-class .table thead th {
+     border-bottom: none;
+}
+ section.our-class-schedule.home-two-our-class .our-class-schedule-table tr td span {
+     color: #fff;
+}
+/* Feature service home two css */
+ .p-30 {
+     padding: 30px;
+}
+ .home-two-single-feature h3 {
+     font-size: 24px;
+     font-weight: 500;
+}
+ .home-two-feature-icon {
+     position: absolute;
+     right: 0;
+     bottom: 0;
+}
+ .home-two-single-feature {
+     box-shadow: 0px 14px 30px 0px rgba(200, 200, 200, 0.4);
+     margin-bottom: 40px;
+     position: relative;
+     z-index: 1;
+     background: #fff;
+}
+ .home-two-single-feature:after {
+     position: absolute;
+     left: 0;
+     top: 0;
+     width: 100%;
+     height: 100%;
+     content: "";
+     background: #f92524;
+     z-index: -1;
+     box-shadow: 0px 14px 30px 0px rgba(249, 37, 36, 0.4);
+     -webkit-transition: .3s;
+     transition: .3s;
+     visibility: hidden;
+     opacity: 0;
+     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+}
+ .home-two-single-feature:hover:after {
+     visibility: visible;
+     opacity: 1;
+     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+}
+ .home-two-single-feature:hover h3, .home-two-single-feature:hover {
+     color: #fff;
+}
+ section.home-two-service-area {
+     z-index: 1;
+     position: relative;
+}
+ .home-two-service-area-overlay-image {
+     position: absolute;
+     right: 0;
+     bottom: 0;
+     z-index: -1;
+     background: 3fff;
+     height: 100%;
+}
+ .home-two-service-area-overlay-image img {
+     height: 100%;
+     width: 100%;
+}
+/* home two team area css */
+ section.team-expert.team-expert-home-2 {
+     background: #f8f8f8;
+}
+ section.team-expert.team-expert-home-2 .team-expert-bg {
+     height: 450px;
+     background-size: cover;
+     background-position: center;
+}
+ section.team-expert.team-expert-home-2 .social-list.expert-social-list {
+     border-radius: 50px;
+     padding-top: 10px;
+     padding-bottom: 10px;
+}
+ section.team-expert.team-expert-home-2 .team-expert-social-list {
+     padding: 0 50px;
+}
+ section.team-expert.team-expert-home-2 .social-list.expert-social-list a {
+     height: 50px;
+     width: 50px;
+     display: inline-block;
+     background: #fff;
+     color: #f92524;
+     border-radius: 50px;
+     margin: 0 10px;
+     text-align: center;
+}
+ section.team-expert.team-expert-home-2 .owl-carousel .owl-controls .owl-nav div, .home-two-shop-wrapper.owl-carousel .owl-controls .owl-nav div {
+     position: absolute;
+     left: -10%;
+     top: 50%;
+     -webkit-transform: translateY(-50%);
+     transform: translateY(-50%);
+     width: 80px;
+     height: 80px;
+     font-size: 30px;
+     line-height: 80px;
+     background: #d9d9d9;
+     color: #7b7b90;
+}
+ section.team-expert.team-expert-home-2 .owl-carousel .owl-controls .owl-nav div .owl-next {
+     right: -10%;
+     left: auto;
+}
+ section.team-expert.team-expert-home-2 .owl-carousel .owl-controls .owl-nav div.owl-next {
+     left: auto;
+     right: -10%;
+}
+ section.team-expert.team-expert-home-2 .owl-carousel .owl-controls .owl-nav div:hover, .home-two-shop-wrapper.owl-carousel .owl-controls .owl-nav div:hover {
+     background: #f92524;
+     color: #fff;
+}
+ .home-two-shop-wrapper.owl-carousel .owl-controls .owl-nav div.owl-next {
+     left: auto;
+     right: -10%;
+}
+/* home two cta area css */
+ .home-two-cta-area {
+     background: #fff;
+     padding-top: 50px;
+     padding-bottom: 50px;
+     padding-left: 80px;
+     padding-right: 150px;
+}
+ .home-two-cta-area h1 {
+     font-size: 45px;
+     text-transform: uppercase;
+}
+ section.home-two-call-to-area {
+     background-size: cover;
+     background-position: center;
+     z-index: 1;
+     position: relative;
+}
+ section.home-two-call-to-area:after {
+     position: absolute;
+     left: 0;
+     top: 0;
+     width: 100%;
+     height: 100%;
+     content: "";
+     background-color: rgb(23, 27, 60);
+     opacity: 0.8;
+     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+     z-index: -1;
+}
+/* Cta area css */
+ .cta-single-slider-list {
+     position: relative;
+     z-index: 1;
+}
+ .cta-slider-area.owl-carousel .owl-carousel .owl-controls .owl-nav div {
+     position: absolute;
+     left: 50%;
+}
+ .cta-slider-area.owl-carousel .owl-controls .owl-nav div {
+     width: auto;
+     height: auto;
+     padding: 0;
+     margin: 0;
+     background: transparent;
+}
+ .cta-slider-area.owl-carousel .owl-controls .owl-nav div i.fa {
+     margin: 0;
+}
+ .cta-slider-area.owl-carousel .owl-controls .owl-nav div.owl-next {
+     margin-left: 10px;
+}
+ .cta-slider-area.owl-carousel .owl-controls .owl-nav {
+     z-index: 1;
+     width: 50px;
+     position: absolute;
+     left: 50%;
+     top: 50%;
+     height: 50px;
+     -webkit-transform: translateY(-50%);
+     transform: translateY(-50%);
+     -webkit-transform: translateX(-50%);
+     transform: translateX(-50%);
+     margin: 0;
+     text-align: center;
+     background: red;
+     border-radius: 50%;
+     border: 2px solid #fff;
+}
+ .home-two-cta-area .site-btn-hometwo a:hover {
+     background: #222;
+     color: #fff;
+}
+/* home two shop area css */
+ .home-two-shop-single-item-feature-image {
+     height: 300px;
+     background-size: cover;
+     background-position: center;
+     margin-bottom: 40px;
+     background-color: #f2f1f1;
+     position: relative;
+}
+ .home-two-single-shop-meta h3 {
+     font-size: 24px;
+     font-weight: 500;
+     margin-bottom: 10px;
+}
+ .home-two-single-shop-meta h4 {
+     margin: 0;
+     color: #7b7b90;
+     font-size: 18px;
+     font-weight: 400;
+}
+ .home-two-shop-single-item:hover .home-two-shop-single-item-overlay-content {
+     visibility: visible;
+     opacity: 1;
+     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+}
+ .home-two-shop-single-item:hover .home-two-single-shop-meta h3 {
+     color: #f92524;
+}
+ .home-two-shop-single-item-overlay-content {
+     position: absolute;
+     left: 0;
+     top: 0;
+     height: 100%;
+     width: 100%;
+     -webkit-transition: .3s;
+     transition: .3s;
+     visibility: hidden;
+     opacity: 0;
+     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+}
+ .home-two-shop-single-items-content-center {
+     width: 100%;
+     background: #f92524;
+     padding: 30px 0;
+}
+ .home-two-shop-single-items-content-center ul li {
+     display: inline-block;
+}
+ .home-two-shop-single-items-content-center ul li a {
+     display: block;
+     width: 40px;
+     height: 40px;
+     line-height: 40px;
+     background: #c70202;
+     color: #fff;
+     margin: 0 10px;
+     border-radius: 50%;
+}
+ .home-two-shop-single-items-content-center ul li a:hover {
+     background: #fff;
+     color: #c70202;
+}
+/* Home two testimonial area css */
+ section.home-two-testimonial-area {
+     background: #f8f8f8;
+}
+ .home-two-single-testimonial {
+     position: relative;
+     z-index: 1;
+}
+ .home-two-single-testimonial img {
+     width: 80px !important;
+     height: 80px !important;
+     position: absolute;
+     left: 0;
+     z-index: -1;
+     display: inline-block !important;
+}
+ .home-two-single-testimonial p {
+     font-style: italic;
+     color: #7b7b90;
+     font-size: 25px;
+     line-height: 1.5;
+}
+ section.home-two-testimonial-area {
+     position: relative;
+     z-index: 1;
+     background-size: cover;
+     background-position: left center;
+}
+ .home-two-testimoni-thumbnail {
+     position: absolute;
+     right: 16%;
+     bottom: 0;
+}
