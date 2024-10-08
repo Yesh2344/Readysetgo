@@ -39,10 +39,6 @@
 
 ![Contact Form](screenshots/contact.png)
 
-### Responsive View
-
-![Responsive View](screenshots/responsive.png)
-
 *Ensure that you place your screenshots in a `screenshots` folder within your repository and update the image paths accordingly.*
 
 ## Technologies Used
