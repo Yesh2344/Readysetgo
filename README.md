@@ -61,3 +61,14 @@ To get a local copy of the project up and running, follow these simple steps:
 
    ```bash
    git clone https://github.com/yourusername/readysetgo.git
+   ```
+2. **Navigate to the Project Directory**
+   ```bash
+   cd readysetgo
+   ```
+3.**Open the Project in Your Preferred Code Editor**
+```bash
+code.
+```
+4.**Open index.html in Your Browser**
+
