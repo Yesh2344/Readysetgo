@@ -29,19 +29,19 @@
 
 ### Home Page
 
-![Home Page](screenshots/home-page.png)
+![Home Page](screenshots/home.png)
 
 ### About Us
 
-![About Us](screenshots/about-us.png)
+![About Us](screenshots/aboutus.png)
 
 ### Contact Form
 
-![Contact Form](screenshots/contact-form.png)
+![Contact Form](screenshots/contact.png)
 
 ### Responsive View
 
-![Responsive View](screenshots/responsive-view.png)
+![Responsive View](screenshots/responsive.png)
 
 *Ensure that you place your screenshots in a `screenshots` folder within your repository and update the image paths accordingly.*
 
